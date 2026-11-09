@@ -1,3 +1,6 @@
+> **Este portfólio mudou de endereço:** https://gabrielsferra.vercel.app
+> (código em [gfsferra/portfolio](https://github.com/gfsferra/portfolio)). Esta página só redireciona para lá.
+
 # Frontend Developer Portfolio
 
 Welcome to my Frontend Developer portfolio! This repository showcases my expertise in crafting exceptional user experiences using HTML5, CSS, JavaScript, GraphQL, and jQuery.
