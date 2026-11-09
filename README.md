@@ -1,4 +1,4 @@
-> **Este portfólio mudou de endereço:** https://gabrielsferra.vercel.app
+> **Este portfólio mudou de endereço:** https://gabrielsferra.dev
 > (código em [gfsferra/portfolio](https://github.com/gfsferra/portfolio)). Esta página só redireciona para lá.
 
 # Frontend Developer Portfolio
